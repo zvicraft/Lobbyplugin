@@ -1,0 +1,3 @@
+name: Loobbyplugin
+version: '${project.version}'
+main: ml.zvicraft.dev.loobbyplugin.Loobbyplugin
